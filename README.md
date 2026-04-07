@@ -1,6 +1,12 @@
-# Olá, sou Vithor Rosa! 👋
+<h1 align="center">Olá, sou Vithor Rosa! 👋</h1>
 
-### QA Júnior em Transição de Carreira | Foco em Qualidade de Software e Testes Manuais
+<h3 align="center">QA Júnior em Transição de Carreira | Foco em Qualidade de Software e Testes Manuais</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-rosa-2886883b8/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 Sou um profissional apaixonado por tecnologia, em transição de carreira para a área de Qualidade de Software (QA). Minha jornada é impulsionada pela busca contínua da excelência em produtos digitais, garantindo que cada entrega atenda aos mais altos padrões de qualidade e usabilidade.
 
