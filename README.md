@@ -43,6 +43,27 @@ Nesta seção, você encontrará exemplos práticos do meu trabalho, incluindo r
 
 ---
 
+### Minha Trilha de Aprendizado (Roadmap) 🗺️
+
+Como QA em transição, estou focado em construir uma base sólida e expandir minhas habilidades. Abaixo está meu roadmap de aprendizado:
+
+#### Concluído e em Prática ✅
+
+*   ✅ **Fundamentos de QA:** Ciclo de vida de testes, tipos de testes, análise de requisitos.
+*   ✅ **Testes Manuais:** Criação e execução de casos de teste, testes exploratórios, testes de regressão.
+*   ✅ **Documentação:** Elaboração de relatórios de bugs claros e concisos, casos de teste detalhados.
+*   ✅ **SQL Básico:** Consultas para validação de dados e integridade em bancos de dados.
+*   ✅ **Ferramentas:** Conceitos de Jira, TestRail, Postman.
+
+#### Próximos Passos e Em Estudo ⏳
+
+*   ⏳ **Automação de Testes:** Introdução a ferramentas como Selenium/Cypress (JavaScript/Python).
+*   ⏳ **Testes de API:** Aprofundamento em Postman e outras ferramentas para validação de APIs.
+*   ⏳ **Controle de Versão:** Git e GitHub (prática avançada).
+*   ⏳ **Metodologias Ágeis:** Scrum e Kanban no contexto de QA.
+
+---
+
 ### Estatísticas do GitHub 📊
 
 [![Vithor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vithorrosa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
