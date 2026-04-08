@@ -40,6 +40,7 @@ Nesta seção, você encontrará exemplos práticos do meu trabalho, incluindo r
 *   **Relatório de Bug - Cópia de Bug report:** [https://docs.google.com/spreadsheets/d/1fjSmJ0FF3X-ljj-w7MLOnLoKfnPYlaMy5kIaNQ070Ww/edit?usp=drive_link]
 *   **Relatório de Bug - Cópia de Bug report for Help page:** [https://docs.google.com/spreadsheets/d/1vUryau2rDmwN2LADVXHti8N3h4MjkGcm8vO5y-BDi58/edit?usp=drive_link]
 *   **Relatório de Bug - Cópia de Bug report for Sign-in page task:** [https://docs.google.com/spreadsheets/d/1uMWJdC7ipgmpfHc9PMD1hkyQTgjp3BZPwMyrYdr4s_4/edit?usp=drive_link]
+*   **Documento de Teste - Exemplo:** [https://drive.google.com/file/d/1IXbJLOWRFdLCt_ZOZmbJk3itoHuBxEPt/view?usp=sharing]
 
 ---
 
