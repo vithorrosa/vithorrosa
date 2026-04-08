@@ -77,7 +77,7 @@ Como QA em transição, estou focado em construir uma base sólida e expandir mi
 
 Estou sempre aberto a novas oportunidades, colaborações e discussões sobre qualidade de software. Sinta-se à vontade para entrar em contato:
 
-*   **LinkedIn:** [Seu perfil do LinkedIn aqui]
-*   **Email:** [Seu email aqui]
+*   **LinkedIn:** [https://www.linkedin.com/in/vitor-rosa-2886883b8/](https://www.linkedin.com/in/vitor-rosa-2886883b8/)
+*   **Email:** [vithorrosa@outlook.com](mailto:vithorrosa@outlook.com)
 
 Obrigado pela visita ao meu perfil! 😊
