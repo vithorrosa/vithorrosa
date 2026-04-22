@@ -1,83 +1,100 @@
-<h1 align="center">Olá, sou Vithor Rosa! 👋</h1>
+<h1 align="center">Vithor Rosa</h1>
 
-<h3 align="center">QA Júnior em Transição de Carreira | Foco em Qualidade de Software e Testes Manuais</h3>
+<h3 align="center">QA Engineer | Testes Manuais & Validação de Software</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-rosa-2886883b8/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vithorrosa@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-Sou um profissional apaixonado por tecnologia, em transição de carreira para a área de Qualidade de Software (QA). Minha jornada é impulsionada pela busca contínua da excelência em produtos digitais, garantindo que cada entrega atenda aos mais altos padrões de qualidade e usabilidade.
+---
 
-Atualmente, estou aprofundando meus conhecimentos em Engenharia de QA pela **Mate Academy**, onde desenvolvo habilidades práticas em:
+## Sobre mim 👨‍💻
 
-*   **Testes Manuais:** Criação e execução de casos de teste, testes exploratórios e de regressão.
-*   **Análise de Requisitos:** Compreensão aprofundada e validação de especificações de software.
-*   **Reporte de Bugs:** Elaboração de relatórios de bugs claros, concisos e acionáveis, com foco na reprodutibilidade e impacto.
-*   **SQL Básico:** Utilização de consultas para validação de dados e garantia da integridade em bancos de dados.
-*   **Ferramentas:** Familiaridade com conceitos de Jira, TestRail e Postman para testes de API.
+Profissional com background em ambientes operacionais e administrativos, migrei para QA trazendo comigo o que mais importa nessa área: **atenção a detalhes, disciplina e controle de processos**.
 
-Minha experiência anterior em ambientes operacionais e administrativos me proporcionou uma base sólida em **disciplina, organização, atenção a detalhes e controle de processos**, qualidades que considero cruciais para um QA de sucesso. Estou em constante aprendizado e evolução, buscando sempre entender o comportamento do sistema, identificar riscos e contribuir ativamente para a melhoria contínua dos produtos.
+Atualmente estudando Engenharia de QA na **Mate Academy**, com foco em identificar falhas antes que o usuário as encontre — porque qualidade não é etapa final, é responsabilidade de cada entrega.
 
---- 
+> *"Um bom QA não testa para aprovar. Testa para proteger."*
 
-### Minhas Habilidades 🛠️
+---
+
+## Habilidades Técnicas 🛠️
+
+### O que já faço na prática:
+
+- ✅ Criação e execução de **casos de teste manuais**
+- ✅ **Testes exploratórios** e de **regressão**
+- ✅ **Reporte de bugs** com foco em reprodutibilidade, severidade e impacto
+- ✅ **Análise de requisitos** e identificação de ambiguidades antes do desenvolvimento
+- ✅ **Validação de dados** com SQL básico
+- ✅ **Testes de API** com Postman
+
+### Ferramentas:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,jira,postman,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,vscode,jira" />
   </a>
 </p>
 
 ---
 
-### Projetos e Experiências Práticas 🚀
+## Projetos Práticos 🚀
 
-Nesta seção, você encontrará exemplos práticos do meu trabalho, incluindo relatórios de bugs e casos de teste desenvolvidos durante meus estudos e projetos pessoais. Estes documentos demonstram minha capacidade de identificar falhas, documentá-las de forma eficaz e propor soluções, sempre com uma visão crítica e focada na qualidade.
+Exemplos reais do meu trabalho em análise, documentação e reporte de falhas:
 
-*   **Relatório de Bug - First bug report example:** [https://docs.google.com/spreadsheets/d/1AioDhYEZefK6Kyjblf5kee3lBS6SznJNFNYbFlLsaFk/edit?usp=drive_link]
-*   **Relatório de Bug - Cópia de Bug report:** [https://docs.google.com/spreadsheets/d/1fjSmJ0FF3X-ljj-w7MLOnLoKfnPYlaMy5kIaNQ070Ww/edit?usp=drive_link]
-*   **Relatório de Bug - Cópia de Bug report for Help page:** [https://docs.google.com/spreadsheets/d/1vUryau2rDmwN2LADVXHti8N3h4MjkGcm8vO5y-BDi58/edit?usp=drive_link]
-*   **Relatório de Bug - Cópia de Bug report for Sign-in page task:** [https://docs.google.com/spreadsheets/d/1uMWJdC7ipgmpfHc9PMD1hkyQTgjp3BZPwMyrYdr4s_4/edit?usp=drive_link]
-*   **Documento de Teste - Exemplo:** [https://drive.google.com/file/d/1IXbJLOWRFdLCt_ZOZmbJk3itoHuBxEPt/view?usp=sharing]
-
----
-
-### Minha Trilha de Aprendizado (Roadmap) 🗺️
-
-Como QA em transição, estou focado em construir uma base sólida e expandir minhas habilidades. Abaixo está meu roadmap de aprendizado:
-
-#### Concluído e em Prática ✅
-
-*   ✅ **Fundamentos de QA:** Ciclo de vida de testes, tipos de testes, análise de requisitos.
-*   ✅ **Testes Manuais:** Criação e execução de casos de teste, testes exploratórios, testes de regressão.
-*   ✅ **Documentação:** Elaboração de relatórios de bugs claros e concisos, casos de teste detalhados.
-*   ✅ **SQL Básico:** Consultas para validação de dados e integridade em bancos de dados.
-*   ✅ **Ferramentas:** Conceitos de Jira, TestRail, Postman.
-
-#### Próximos Passos e Em Estudo ⏳
-
-*   ⏳ **Automação de Testes:** Introdução a ferramentas como Selenium/Cypress (JavaScript/Python).
-*   ⏳ **Testes de API:** Aprofundamento em Postman e outras ferramentas para validação de APIs.
-*   ⏳ **Controle de Versão:** Git e GitHub (prática avançada).
-*   ⏳ **Metodologias Ágeis:** Scrum e Kanban no contexto de QA.
+| Projeto | O que foi testado | Link |
+|---|---|---|
+| 🐛 Bug Report #1 | Fluxo geral — primeiro relatório estruturado de bugs | [Acessar](https://docs.google.com/spreadsheets/d/1AioDhYEZefK6Kyjblf5kee3lBS6SznJNFNYbFlLsaFk/edit?usp=drive_link) |
+| 🐛 Bug Report #2 | Análise de funcionalidades gerais da aplicação | [Acessar](https://docs.google.com/spreadsheets/d/1fjSmJ0FF3X-ljj-w7MLOnLoKfnPYlaMy5kIaNQ070Ww/edit?usp=drive_link) |
+| 🐛 Bug Report #3 | Página de Ajuda — falhas de conteúdo e usabilidade | [Acessar](https://docs.google.com/spreadsheets/d/1vUryau2rDmwN2LADVXHti8N3h4MjkGcm8vO5y-BDi58/edit?usp=drive_link) |
+| 🐛 Bug Report #4 | Página de Sign-in — falhas de validação e autenticação | [Acessar](https://docs.google.com/spreadsheets/d/1uMWJdC7ipgmpfHc9PMD1hkyQTgjp3BZPwMyrYdr4s_4/edit?usp=drive_link) |
+| 📋 Casos de Teste | Documento estruturado com cenários, pré-condições e resultados esperados | [Acessar](https://drive.google.com/file/d/1IXbJLOWRFdLCt_ZOZmbJk3itoHuBxEPt/view?usp=sharing) |
 
 ---
 
-### Estatísticas do GitHub 📊
+## Roadmap de Aprendizado 🗺️
 
-[![Vithor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vithorrosa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Concluído e em Prática ✅
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithorrosa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- ✅ Fundamentos de QA: ciclo de vida, tipos de teste, análise de requisitos
+- ✅ Testes Manuais: casos de teste, exploratórios, regressão
+- ✅ Documentação: bug reports claros, concisos e acionáveis
+- ✅ SQL Básico: validação e integridade de dados
+- ✅ Ferramentas: Jira, TestRail, Postman, Git, GitHub
+
+### Em Evolução ⏳
+
+- ⏳ **Automação de Testes** — Cypress com JavaScript
+- ⏳ **Testes de API** — aprofundamento em Postman + validações avançadas
+- ⏳ **Git avançado** — workflows, branches, PRs
+- ⏳ **Metodologias Ágeis** — Scrum e Kanban aplicados ao QA
 
 ---
 
-### Conecte-se Comigo! 💬
+## GitHub Stats 📊
 
-Estou sempre aberto a novas oportunidades, colaborações e discussões sobre qualidade de software. Sinta-se à vontade para entrar em contato:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vithorrosa&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorrosa&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
-*   **LinkedIn:** [https://www.linkedin.com/in/vitor-rosa-2886883b8/](https://www.linkedin.com/in/vitor-rosa-2886883b8/)
-*   **Email:** [vithorrosa@outlook.com](mailto:vithorrosa@outlook.com)
+---
 
-Obrigado pela visita ao meu perfil! 😊
+## Vamos conversar? 💬
+
+Aberto a oportunidades, feedbacks e colaborações na área de qualidade de software.
+
+- 📧 **Email:** vithorrosa@outlook.com
+- 💼 **LinkedIn:** [linkedin.com/in/vitor-rosa-2886883b8](https://www.linkedin.com/in/vitor-rosa-2886883b8/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vithorrosa&color=blueviolet&style=flat-square&label=Visualizações+do+perfil"/>
+</p>
