@@ -56,7 +56,8 @@ Além de testar sistemas, **desenvolvo ferramentas próprias** que combinam minh
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🌐 **Bilingual Reader** | ... | [Ver projeto](https://github.com/vithorrosa/bilingual-reader) |
+| 🌐 **Bilingual Reader** | Extensão Chrome que traduz páginas frase por frase, com original e tradução lado a lado e tooltip de vocabulário por palavra — criada para estudo de idiomas | Chrome Extension · Node.js · Express · MyMemory API  [Ver projeto](https://github.com/vithorrosa/bilingual-reader) ||
+
 ---
 
 ### 🐛 Bug Reports & Casos de Teste
