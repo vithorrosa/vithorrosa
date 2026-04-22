@@ -1,4 +1,4 @@
-<h1 align="center">Vithor Rosa</h1>
+<h1 align="center">Vitor Rosa</h1>
 
 <h3 align="center">QA Engineer | Testes Manuais & Validação de Software</h3>
 
