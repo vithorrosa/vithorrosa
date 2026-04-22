@@ -1,6 +1,6 @@
 <h1 align="center">Vithor Rosa</h1>
 
-<h3 align="center">QA Engineer | Testes Manuais & Validação de Software</h3>
+<h3 align="center">QA Engineer | Testes Manuais, Automação & Ferramentas de Qualidade</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-rosa-2886883b8/" target="_blank">
@@ -18,9 +18,11 @@
 
 ## Sobre mim 👨‍💻
 
-Profissional com background em ambientes operacionais e administrativos, migrei para QA trazendo comigo o que mais importa nessa área: **atenção a detalhes, disciplina e controle de processos**.
+Profissional com background em ambientes operacionais e administrativos, migrei para QA trazendo o que mais importa nessa área: **atenção a detalhes, disciplina e controle de processos**.
 
 Atualmente estudando Engenharia de QA na **Mate Academy**, com foco em identificar falhas antes que o usuário as encontre — porque qualidade não é etapa final, é responsabilidade de cada entrega.
+
+Além de testar sistemas, **desenvolvo ferramentas próprias** que combinam minha visão de QA com programação prática — como uma extensão Chrome bilíngue para estudar idiomas com tradução em tempo real.
 
 > *"Um bom QA não testa para aprovar. Testa para proteger."*
 
@@ -36,18 +38,29 @@ Atualmente estudando Engenharia de QA na **Mate Academy**, com foco em identific
 - ✅ **Análise de requisitos** e identificação de ambiguidades antes do desenvolvimento
 - ✅ **Validação de dados** com SQL básico
 - ✅ **Testes de API** com Postman
+- ✅ **Desenvolvimento de ferramentas** com JavaScript, Node.js e Chrome Extensions
 
 ### Ferramentas:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,vscode,jira" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,vscode,jira,js,nodejs" />
   </a>
 </p>
 
 ---
 
 ## Projetos Práticos 🚀
+
+### 🔧 Ferramentas Desenvolvidas
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🌐 **Bilingual Reader** | Extensão Chrome que traduz páginas frase por frase, com original e tradução lado a lado e tooltip de vocabulário por palavra — criada para estudo de idiomas | Chrome Extension · Node.js · Express · MyMemory API |
+
+---
+
+### 🐛 Bug Reports & Casos de Teste
 
 Exemplos reais do meu trabalho em análise, documentação e reporte de falhas:
 
@@ -70,6 +83,7 @@ Exemplos reais do meu trabalho em análise, documentação e reporte de falhas:
 - ✅ Documentação: bug reports claros, concisos e acionáveis
 - ✅ SQL Básico: validação e integridade de dados
 - ✅ Ferramentas: Jira, TestRail, Postman, Git, GitHub
+- ✅ Desenvolvimento de extensão Chrome com JavaScript e Node.js
 
 ### Em Evolução ⏳
 
