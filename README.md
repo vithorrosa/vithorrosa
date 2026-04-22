@@ -1,4 +1,4 @@
-<h1 align="center">Vitor Rosa</h1>
+<h1 align="center">Vithor Rosa</h1>
 
 <h3 align="center">QA Engineer | Testes Manuais & Validação de Software</h3>
 
@@ -8,6 +8,9 @@
   </a>
   <a href="mailto:vithorrosa@outlook.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vithorrosa.github.io/qa-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
@@ -92,6 +95,7 @@ Aberto a oportunidades, feedbacks e colaborações na área de qualidade de soft
 
 - 📧 **Email:** vithorrosa@outlook.com
 - 💼 **LinkedIn:** [linkedin.com/in/vitor-rosa-2886883b8](https://www.linkedin.com/in/vitor-rosa-2886883b8/)
+- 🌐 **Portfólio:** [vithorrosa.github.io/qa-portfolio](https://vithorrosa.github.io/qa-portfolio)
 
 ---
 
