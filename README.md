@@ -97,8 +97,12 @@ Exemplos reais do meu trabalho em análise, documentação e reporte de falhas:
 ## GitHub Stats 📊
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vithorrosa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats de Vithor Rosa" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorrosa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Linguagens mais usadas por Vithor Rosa" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vithorrosa&theme=radical" alt="Resumo do perfil GitHub de Vithor Rosa" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vithorrosa&theme=radical" alt="Estatísticas do GitHub de Vithor Rosa" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vithorrosa&theme=radical" alt="Repositórios por linguagem de Vithor Rosa" />
 </div>
 
 <div align="center">
